@@ -33,6 +33,6 @@ enum Constants {
     static let minCoinsReward: Int = 5
     static let maxCoinsReward: Int = 20
     static let storageKey = "userData"
-    static let initial = "https://horseshoeonline.xyz/json"
-    static let rules = "https://horseshoeonline.xyz/rules.html"
+    static let initial = "https://hsonline.pro/json"
+    static let rules = "https://hsonline.pro/rules.html"
 }
