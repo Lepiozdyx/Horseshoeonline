@@ -8,6 +8,7 @@
 import Foundation
 
 enum Constants {
+    
     enum Game {
         enum Play {
             static let itemFallingDuration: TimeInterval = 2.5
